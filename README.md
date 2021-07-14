@@ -36,7 +36,7 @@ La segunda es  Usando los dos tipos de casting  (implícito y explícito), resol
  ### Introduccion a poo en java y funcional
  En los ejercicios de este curso realice algunos ejercicios usando los metodos matematicos de la clase math ,estos ya estan definidos en java asi que los utilice usando mis propios parametros ademas que realice un codigo usando un poco de la teoria de programacion funcional.
 
-##Que aprendi y conclusiones
+## Que aprendi y conclusiones
 En este curso y gracias a los ejercicios propuestos reforce muchos de los conceptos y sintaxis de las sentencias ya que yo tengo algo de experiencia en java y he utilizado este lenguaje me senti muy comodo en los ejercicios y tambien aprendi algunas cosas nuevas sobre este lenguaje ,y bueno la ruta de aprendizaje para java realmente es muy amplia asi que esto es solo el principio.
 
 
